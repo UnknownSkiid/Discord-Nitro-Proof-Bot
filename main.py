@@ -13,7 +13,7 @@ import re
 import os
 
 
-tk = "MTA0Mzg0NjU5ODIxMzUxNzMyMg.GT7i-g.gOzHE8LZcd_kSWndyj5RaD2K56lxULw9P_6FSI"
+tk = "TOKEN"
 
 bot = commands.Bot(command_prefix="!", intents=discord.Intents.all())
 bot.remove_command("help")
