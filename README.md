@@ -41,6 +41,8 @@ python main.py
 python api.py
 
 if It Shows Any Error then 
+
+
 python -m pip install flask
 python -m pip install bs4
 python -m pip install playwright
