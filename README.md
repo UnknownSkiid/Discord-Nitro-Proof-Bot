@@ -58,4 +58,4 @@ python -m pip install requests
 
 Command is !nitro <@username? <message>
 
-  if You Guys Need Any Help Dm Me - Ashee#0001
+  if You Guys Need Any Help Dm Me - Boo Is Live#0980
