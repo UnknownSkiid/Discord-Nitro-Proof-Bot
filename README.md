@@ -1,4 +1,4 @@
-# Discord-Nitro-Proof-Bot
+<div align="center">
 
 I made this quickly, after reading <a href="https://github.com/Snowwy1337/Discord-Nitro-Proof-Bot">Snowwy's NitroBot</a> and realised there wasn't one written in python, so here it is.
 
